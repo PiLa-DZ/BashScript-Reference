@@ -3,7 +3,6 @@
 	```
 	echo $SHELL
 	```
----
 	Output: /bin/bash
 1.
 	```
