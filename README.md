@@ -17,11 +17,12 @@
 	chmod u+x app.sh
 	```
 ---
--	> Write Variabl
+Write Variable
 1.
 	```
 	VARIABLE
 	```
+Write Variable
 1.
 	```
 	```
