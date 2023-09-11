@@ -3,7 +3,7 @@
 	```
 	echo $SHELL
 	```
-	> Output: /bin/bash
+	> Output: **/bin/bash**
 1.
 	```
 	bash app.sh
@@ -58,15 +58,15 @@
 	``` sh
 	echo ${MY_ARRAY[@]}
 	```
-	> Output: one two three
+	> Output: **one** **two** **three**
 	``` sh
 	echo ${MY_ARRAY[0]}
 	```
-	> Output: one 
+	> Output: **one** 
 	``` sh
 	echo ${MY_ARRAY[1]}
 	```
-	> Output: two
+	> Output: **two**
 	``` sh
 	echo ${MY_ARRAY[2]}
 	```
