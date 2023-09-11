@@ -48,27 +48,27 @@
 	    *)
 		# Do Somethisg
 		;;
-        esac
+	esac
 
 	```
 1.
 	``` sh
-        MY_ARRAY=(one two three)
+	MY_ARRAY=(one two three)
 	```
 	``` sh
-        echo ${MY_ARRAY[@]}
+	echo ${MY_ARRAY[@]}
 	```
 	> Output: one two three
 	``` sh
-        echo ${MY_ARRAY[0]}
+	echo ${MY_ARRAY[0]}
 	```
 	> Output: one 
 	``` sh
-        echo ${MY_ARRAY[1]}
+	echo ${MY_ARRAY[1]}
 	```
 	> Output: two
 	``` sh
-        echo ${MY_ARRAY[2]}
+	echo ${MY_ARRAY[2]}
 	```
 	> Output: three
 1.
