@@ -3,7 +3,7 @@
 	```
 	echo $SHELL
 	```
-> 	Output: /bin/bash
+	> 	Output: /bin/bash
 1.
 	```
 	bash app.sh
