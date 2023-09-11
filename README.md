@@ -19,7 +19,7 @@
 ---
 1.
 	``` sh
-	$VARIABLE-NAME
+	$VARIABLE_NAME
 	```
 1.
 	``` sh
