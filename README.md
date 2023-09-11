@@ -38,6 +38,17 @@
 	```
 1.
 	``` sh
+        case ${1,,} in
+            $X | $X | $X)
+                # Do Somethisg
+                ;;
+            $X)
+                # Do Somethisg
+                ;;
+            *)
+                # Do Somethisg
+        esac
+
 	```
 1.
 	``` sh
