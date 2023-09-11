@@ -39,14 +39,15 @@
 1.
 	``` sh
 	case $X in
-            $Y | $Z)
-                # Do Somethisg
-                ;;
-            $A)
-                # Do Somethisg
-                ;;
-            *)
-                # Do Somethisg
+	    $Y | $Z)
+		# Do Somethisg
+		;;
+	    $A)
+		# Do Somethisg
+		;;
+	    *)
+		# Do Somethisg
+		;;
         esac
 
 	```
