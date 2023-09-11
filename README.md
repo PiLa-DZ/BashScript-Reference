@@ -27,9 +27,9 @@
 	```
 1.
 	``` sh
-	if   [ $X = $X ]; then
+	if   [ $X = $Y ]; then
        	    # Do Something
-	elif [ $X = $X ]; then
+	elif [ $X = $Z ]; then
        	    # Do Something
 	else
        	    # Do Something
@@ -38,11 +38,11 @@
 	```
 1.
 	``` sh
-        case ${1,,} in
-            $X | $X | $X)
+        case $X in
+            $Y | $Z)
                 # Do Somethisg
                 ;;
-            $X)
+            $A)
                 # Do Somethisg
                 ;;
             *)
