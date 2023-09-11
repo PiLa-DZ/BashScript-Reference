@@ -16,7 +16,7 @@
 	```
 	chmod u+x app.sh
 	```
----
+-----------------------------------------------
 1.
 	``` sh
 	$VARIABLE_NAME
@@ -27,6 +27,14 @@
 	```
 1.
 	``` sh
+	if   [ $X = $X ]; then
+       		 # Do Something
+	elif [ $X = $X ]; then
+       		 # Do Something
+	else
+       		 # Do Something
+	fi
+
 	```
 1.
 	``` sh
