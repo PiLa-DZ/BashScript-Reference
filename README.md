@@ -1,11 +1,11 @@
 # BashScript-Reference
 1.
-	```
+	``` sh
 	echo $SHELL
 	```
 	> Output: **/bin/bash**
 1.
-	```
+	``` sh
 	bash app.sh
 	```
 1.
@@ -13,7 +13,7 @@
 	#!/bin/bash
 	```
 1.
-	```
+	``` sh
 	chmod u+x app.sh
 	```
 -----------------------------------------------
