@@ -38,7 +38,7 @@
 	```
 1.
 	``` sh
-        case $X in
+	case $X in
             $Y | $Z)
                 # Do Somethisg
                 ;;
