@@ -28,11 +28,11 @@
 1.
 	``` sh
 	if   [ $X = $X ]; then
-       		 # Do Something
+       	    # Do Something
 	elif [ $X = $X ]; then
-       		 # Do Something
+       	    # Do Something
 	else
-       		 # Do Something
+       	    # Do Something
 	fi
 
 	```
