@@ -1,4 +1,15 @@
 # BashScript-Reference
+1.
+	```
+	bash app.sh
+	```
+
+
+
+
+
+
+
 
 ---
 ### Learn From Youtube :blush:
