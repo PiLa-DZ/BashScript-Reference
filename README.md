@@ -54,17 +54,17 @@
 	``` sh
         MY_ARRAY=(one two three)
 	```
-        > echo ${MY_ARRAY[@]}
-	>> Output: one two three
+        echo ${MY_ARRAY[@]}
+	Output: one two three
 
-        > echo ${MY_ARRAY[0]}
-	>> Output: one 
+        echo ${MY_ARRAY[0]}
+	Output: one 
 
-        > echo ${MY_ARRAY[1]}
-	>> Output: two
+        echo ${MY_ARRAY[1]}
+	Output: two
 
-        > echo ${MY_ARRAY[2]}
-	>> Output: three
+        echo ${MY_ARRAY[2]}
+	Output: three
 1.
 	``` sh
 	```
