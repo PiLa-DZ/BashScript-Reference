@@ -70,7 +70,7 @@
 	``` sh
 	echo ${MY_ARRAY[2]}
 	```
-	> Output: three
+	> Output: **three**
 1.
 	``` sh
 	```
