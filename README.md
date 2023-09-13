@@ -71,65 +71,7 @@
 	echo ${MY_ARRAY[2]}
 	```
 	> Output: **three**
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-1.
-	``` sh
-	```
-
-
-
-
 
 ---
 ### Learn From Youtube :blush:
-[Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
+[Bash Scripting Tutorial](https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
